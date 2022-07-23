@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-eazyschool-admin/spring-eazyschool-admin.iml" filepath="$PROJECT_DIR$/spring-eazyschool-admin/spring-eazyschool-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-eazyschool-app/spring-eazyschool-app.iml" filepath="$PROJECT_DIR$/../spring-eazyschool-app/spring-eazyschool-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eazyschool-rest/spring-eazyschool-rest.iml" filepath="$PROJECT_DIR$/spring-eazyschool-rest/spring-eazyschool-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework-eazyschool.iml" filepath="$PROJECT_DIR$/spring-framework-eazyschool.iml" />
+    </modules>
+  </component>
+</project>

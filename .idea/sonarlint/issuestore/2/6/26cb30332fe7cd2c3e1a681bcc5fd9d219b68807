@@ -1,0 +1,7 @@
+
+j
+java:S1192"ODefine a constant instead of duplicating this literal "loggedInPerson" 3 times.(õ”¥Þþÿÿÿÿ
+D
+java:S19409")Use the opposite operator ("<=") instead.(ªîùûÿÿÿÿ
+W
+java:S2441B"<Make "Person" serializable or don't store it in the session.(°¸„ûÿÿÿÿ
